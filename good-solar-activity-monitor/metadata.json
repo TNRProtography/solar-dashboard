@@ -1,0 +1,5 @@
+{
+  "name": "Good Solar Activity Monitor",
+  "description": "A web application to monitor real-time solar activity, including X-ray flux, proton flux, solar imagery, and recent space weather events using NASA and NOAA data.",
+  "requestFramePermissions": []
+}
